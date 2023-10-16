@@ -14,9 +14,9 @@
   <a href="https://youtu.be/KMPdTMK-NJw"><strong>View Demo »</strong></a>
   </br>
   </br>
-  <a href="https://github.com/lifuhuang97/amqp-msg-service/issues">Explore the docs</a> · 
-  <a href="https://github.com/lifuhuang97/amqp-msg-service/issues">Report Bug</a> ·
-  <a href="https://github.com/lifuhuang97/amqp-msg-service/issues">Request Feature</a>
+  <a href="https://github.com/lifuhuang97/amqp-msg-service">Explore the docs</a> · 
+  <a href="https://github.com/lifuhuang97/amqp-msg-service">Report Bug</a> ·
+  <a href="https://github.com/lifuhuang97/amqp-msg-service">Request Feature</a>
 </p>
 </p>
 
